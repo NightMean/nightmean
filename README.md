@@ -33,6 +33,14 @@
 
 > If you found something useful here, a sponsorship is the best way to support me—**it literally buys late-night snacks that fuel my midnight coding sessions :)**
 
-<a href="https://github.com/sponsors/NightMean">
-  <img src="https://img.shields.io/badge/Sponsor_Me-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor NightMean" />
-</a>
+<p align="left">
+  <a href="https://github.com/sponsors/NightMean">
+    <img src="https://img.shields.io/badge/Sponsor_Me-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor NightMean" />
+  </a>
+  <a href="https://www.buymeacoffee.com/nightmean">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>  
+  <a href="https://ko-fi.com/nightmean">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+  </a>
+</p>
